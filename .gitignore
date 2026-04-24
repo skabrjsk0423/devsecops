@@ -1,0 +1,16 @@
+#환경변수 파일
+.env
+*.env
+
+#키 파일
+*.pem
+*.key
+*.p12
+
+#AWS 자격증명
+.aws/
+
+#시스템 파일
+pycache/
+.DS_Store
+node_modules/
